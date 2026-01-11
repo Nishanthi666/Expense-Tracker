@@ -59,8 +59,10 @@ B.Tech Information Technology
 This project is created for learning and portfolio purposes.
 
 Screenshots
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8ad73db4-46d7-4f25-8526-b8900d1c7d3d" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bc33b221-0ca5-41a6-82ec-8b0911b23597" />
+<img width="1022" height="444" alt="image" src="https://github.com/user-attachments/assets/9df1911c-9547-4243-8371-bda2b2824bc9" />
+
+<img width="1031" height="439" alt="image" src="https://github.com/user-attachments/assets/a824d451-c048-4856-9046-6b4144740700" />
+
 
 
 
